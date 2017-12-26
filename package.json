@@ -1,0 +1,19 @@
+{
+  "name": "masterbot",
+  "version": "1.0.0",
+  "description": "a pokemon bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bermudezcode@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "discord.js": "^11.2.1",
+    "discord.js-commando": "^0.9.0",
+    "moment": "^2.20.1",
+    "moment-duration-format": "^2.0.1",
+    "pokemon": "^1.2.2"
+  }
+}
